@@ -1,0 +1,2 @@
+--create .\Objects\test_keil_lib.lib
+.\objects\test_keil_lib.o
